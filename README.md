@@ -9,9 +9,9 @@
 
 ## Description
 
-This is my submition for Front End Web Developer nanodegree Landing page project made with the starter landing page project provided on Github by Udacity.
+This is my submition for Front End Web Developer nanodegree Weather Journal App project made with the starter project provided on Github by Udacity.
 
-This project converts the static web page into an interactive page, with the ability to dynamically add more sections to the page, and adding a navigation bar for navigating the different sections inside the page.
+This project Uses nodejs and js to take in the zip code of a country and the status of user and print it on the website.
 
 ## Setup
 
@@ -29,4 +29,3 @@ To get the project up and running follow the steps below:
 - Github
 - Stackoverflow
 
-# Weather_Journal_App
